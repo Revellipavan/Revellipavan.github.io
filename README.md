@@ -8,7 +8,8 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://revellipavan.github.io/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://revellipavan.github.io/" target="_blank"><img src="![Screenshot 2024-09-21 100152](https://github.com/user-attachments/assets/1cc3b777-9c71-4311-bd1f-1c5748edfddf)
+">
   </a>
   </kbd>
 </p>
